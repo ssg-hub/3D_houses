@@ -7,6 +7,7 @@
 ### Team Spacy : _Arnaud D, Lyes R, Shilpa S_
 
 ### Project Objective :
+---
 The project **3D_houses** ojective is to generate a **3D** model of the building structure for a given address in the Flanders region of **Belgium**.  
 
 ***Input :*** _An address given by user or selected by user from a pre-determined list._  
@@ -16,14 +17,12 @@ Google map view :
 ***Output :*** _A **3D** image rendered for the building structure at the above address._  
 Example :
 
-### Mission objectives :
-Consolidate the knowledge in Python :snake:, specifically in :
-
-:heavy_check_mark: NumPy  
-:heavy_check_mark: Pandas  
-:heavy_check_mark: Matplotlib  
-
-### Learning Objectives
+### Learning Objectives :
+***
+:heavy_check_mark: **Consolidate the knowledge in Python :snake:, specifically in :**   
+- NumPy    
+- Pandas  
+- Matplotlib 
 
 :heavy_check_mark: **to be able to search and implement new libraries**  
 _New libraries searched and explored_  
@@ -44,36 +43,57 @@ Read and used geoTIFFs from .tif files within the **DTM** and **DSM** public dat
 :heavy_check_mark: **to be able to present a final product**     
 (link to the jupyter notebook)
 
-### The Client and mission behind the project  
-Client: LIDAR PLANES, active in the Geospatial industry. 
-End use of data : To launch a new branch in the insurance business.
-3D_houses project goal : To build a solution with the client data to model a house in 3D with only a home address.
+### The Client and mission behind the project
+***
+-Client: LIDAR PLANES, active in the Geospatial industry.  
+-End use of data : To launch a new branch in the insurance business.  
+-3D_houses project goal : To build a solution with the client data to model a house in 3D with only a home address.  
 
-**Must-have features** 3D lookup of houses :heavy_check_mark: :heavy_check_mark: Delivered  
+**Must-have features MVP** 
+3D lookup of houses :heavy_check_mark: :heavy_check_mark: _Delivered_  
 
 **Nice-to-have features**  
 Optimize your solution to have the result as fast as possible.  
 Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...  
-Better visualization.  :heavy_check_mark: :heavy_check_mark: Delivered
-
-
-
-
-
-
+Better visualization.  :heavy_check_mark: :heavy_check_mark: _Delivered_  
 
 ### Data :
+***
 [DSM - Digital Surface Model](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m) 
+[DTM - Digital Terrain Model](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)  
+Above links contain the required _.tif_ files for DSM and DTM respectively.
 
-[DTM - Digital Terrain Model](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+[Cadastral Data](https://eservices.minfin.fgov.be/myminfin-rest/cadastral-plan/cadastralPlan/2020/Belgium/72)  
+Above link contains the required _.shp_ files for Belgium specific Lambert72 coordinates.
 
-### **Installation Guide**
+### Installation Guide
 
-### **How to use**
 
-### **Results**
+### How to use
+[Click here to open the interface](link to jupyter nb)  
 
-### **Challenges**
+Enter an address.  
+
+### Results  
+***  
+#### Data Visualization  
+:belgium: Plot a 3D house from a given list of addresses in Flanders.    
+(link to notebook)
+Image
+
+
+:belgium: Plot a 3D structure for a monument in Flanders, Belgium.  
+(link to notebook)
+Image
+
+more images  
+
+### Challenges  
+***  
+
+
+
+
 
 ### **Contributions**
 
