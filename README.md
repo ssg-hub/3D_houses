@@ -91,11 +91,16 @@ more images
 ### Challenges  
 ***  
 #### Understanding the data
-Geodata was a new format of data that was interesting as well as challenging.   
+Geodata was a new format of data that was interesting as well as challenging. The  essential parts of data needed in this context are the .tif and .shp files.
+
 * The first step was to understand the data provided, which were the above mentioned DSM and DTM files. Here is a diagram to visually represent the same.  
 
 
+* Next, to figure out how to use DSM and DTM and to establish the relation CHM for end plotting.
+![DSM, DTM, CHM](https://user-images.githubusercontent.com/80852343/123079978-ba9dab00-d41c-11eb-9fcc-11c92c1bb7bf.png)
 
+
+* Another dimension was the complexity of data present in the DSM, DTM (43 x 2) zip folders, which totalled to more than 20/40 GB of data. Multiple files exist in layered file tree. The .tif files from 
 
 
 
