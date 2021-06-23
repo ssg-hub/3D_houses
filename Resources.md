@@ -8,8 +8,6 @@ Digital Elevation Model (DEM), Digital Surface Model (DSM) and Digital Terrain M
 
 [EarthDataScience.org lidar data](https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/)
 
-![DSM, DTM, CHM](https://user-images.githubusercontent.com/80852343/123079383-2fbcb080-d41c-11eb-824e-6adb88362bb1.png)
-
 [Spatial data in python](http://www.wvview.org/open_source_gis/site_renders/Python_Spatial/site/index.html)
 
 [Reading Geospatial data](https://towardsdatascience.com/reading-and-visualizing-geotiff-images-with-python-8dcca7a74510)
