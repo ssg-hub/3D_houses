@@ -5,3 +5,12 @@ Digital Elevation Model (DEM), Digital Surface Model (DSM) and Digital Terrain M
 – A DTM (Digital Terrain Model)  typically augments a DEM, by including vector features of the natural terrain, such as rivers and ridges. A DTM may be interpolated to generate a DEM, but not vice versa.
 
 [Understanding DEM, DSM, DTM](https://geodetics.com/dem-dsm-dtm-digital-elevation-models/)
+
+[EarthDataScience.org lidar data](https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/)
+
+![DSM, DTM, CHM](https://user-images.githubusercontent.com/80852343/123079383-2fbcb080-d41c-11eb-824e-6adb88362bb1.png)
+
+[Spatial data in python](http://www.wvview.org/open_source_gis/site_renders/Python_Spatial/site/index.html)
+
+[Reading Geospatial data](https://towardsdatascience.com/reading-and-visualizing-geotiff-images-with-python-8dcca7a74510)
+
