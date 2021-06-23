@@ -90,6 +90,11 @@ more images
 
 ### Challenges  
 ***  
+#### Understanding the data
+Geodata was a new format of data that was interesting as well as challenging.   
+* The first step was to understand the data provided, which were the above mentioned DSM and DTM files. Here is a diagram to visually represent the same.  
+
+
 
 
 
@@ -103,5 +108,5 @@ more images
 
 
 
-**Libraries Used: geopandas, pandas, matplotlib, gdal, os  **
+**Libraries Used:**
 
